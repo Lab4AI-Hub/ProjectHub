@@ -9,12 +9,6 @@
   <strong>所有项目均支持 👉 <a href="https://www.lab4ai.cn/home">在Lab4AI平台一键部署和二次开发</a></strong>
 </p>
 
----
-## 👋 如何贡献一个新项目？
-
-我们热烈欢迎和期待社区开发者与我们共建更丰富的项目生态！我们已经建立了一套标准化的协作流程。
-
-**[➡️ 点击此处，阅读详细的《项目贡献指南》](https://github.com/Lab4AI-Hub/ProjectHub/blob/main/CONTRIBUTING.md)**
 
 ---
 
