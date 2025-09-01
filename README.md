@@ -34,8 +34,9 @@
 
 有任何疑问或合作意向，欢迎通过以下方式联系我们：
 
-* **[在Issue区提问或建议](https://github.com/Lab4AI-Hub/ProjectHub/issues)** (推荐)
+* **[在Issue区提问或建议](https://github.com/Lab4AI-Hub/ProjectHub/issues)** 
 * **扫描下方二维码添加“社区小助手”微信**
-  <p align="center">
-    <img src="【你的社区小助手微信二维码图片URL】" width="200">
-  </p>
+<a href="https://github.com/Lab4AI-Hub/assets/blob/main/leo.jpg">
+  <img src="https://img.shields.io/badge/微信联系-green?style=for-the-badge&logo=wechat">
+</a>
+
