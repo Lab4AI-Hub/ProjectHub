@@ -24,7 +24,7 @@
 
 | 项目名称 | 标签 | 项目简介 | 在Lab4AI平台体验 |
 | :--- | :--- | :--- | :--- |
-| **DISC-MedLLM** | `微调` <br>`垂类模型` `医疗`| DISC-MedLLM 是一个专门针对医疗健康对话式场景而设计的医疗领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源。 | [**➡️ 一键部署**](https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project) |
+| **DISC-MedLLM** | `微调`<br>`垂类模型`<br>`医疗`| DISC-MedLLM 是一个专门针对医疗健康对话式场景而设计的医疗领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源。 | [**➡️ 一键部署**](https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project) |
 | 待复现 | ... | ... | ... |
 
 
