@@ -3,7 +3,7 @@
 
 <h1 align="center">Lab4AI 项目复现中心 (ProjectHub)</h1>
 
-<p align="center">
+<p align="top">
   欢迎来到 Lab4AI大模型实验室的项目复现中心！在这里，我们探索和复现实用、前沿、有趣的AI应用，将酷炫的想法变为可交互的现实。
   <br><br>
   <strong>所有项目均支持 👉 <a href="https://www.lab4ai.cn/home">一键在Lab4AI平台部署和体验</a></strong>
