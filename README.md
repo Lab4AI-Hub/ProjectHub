@@ -1,8 +1,11 @@
 <h1 align="center">Lab4AI 项目复现中心 (ProjectHub)</h1>
 
-<p align="center">
+<p align="top">
   欢迎来到 Lab4AI 的项目复现中心！在这里，我们探索和复现实用、前沿、有趣的AI应用，将酷炫的想法变为可在我们平台一键部署的现实。
   <br><br>
+  </p>
+  
+ <p align="center"> 
   <strong>所有项目均支持 👉 <a href="https://www.lab4ai.cn/home">在Lab4AI平台一键部署和二次开发</a></strong>
 </p>
 
