@@ -20,13 +20,24 @@
 
 ### 🚀 精选项目索引 (Featured Projects)
 
-以下是社区已经完成的、可在Lab4AI平台一键体验的高质量复现项目。
-
-| 项目名称 | 标签 | 项目简介 | 在Lab4AI平台体验 |
-| :--- | :--- | :--- | :--- |
-| **DISC-MedLLM** | `微调`<br>`垂类模型`<br>`医疗`| DISC-MedLLM 是一个专门针对医疗健康对话式场景而设计的医疗领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源。 | [**➡️ 一键部署**](https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project) |
-| 待复现 | ... | ... | ... |
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">项目名称</th>
+      <th width="20%">标签</th>
+      <th width="40%">项目简介</th>
+      <th width="20%" align="center">在Lab4AI平台体验</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>DISC-MedLLM</strong></td>
+     <td><code>微调</code> <code>垂类模型</code> <code>医疗</code></td>
+      <td>DISC-MedLLM 是一个专门针对医疗健康对话式场景而设计的医疗领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+</table>
 
 ---
 
