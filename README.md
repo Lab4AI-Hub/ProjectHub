@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td><strong>DISC-MedLLM</strong></td>
-     <td><code>微调</code> <code>垂类模型</code> <code>医疗</code></td>
+     <td><code>微调</code> <code>医疗</code></td>
       <td>DISC-MedLLM 是一个专门针对医疗健康对话式场景而设计的医疗领域大模型，由复旦大学数据智能与社会计算实验室 (Fudan-DISC) 开发并开源。</td>
       <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project"><strong>➡️ 一键部署</strong></a></td>
     </tr>
