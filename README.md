@@ -10,53 +10,112 @@
 </p>
 
 ---
----
 ## 👋 如何贡献一个新项目？
 
-我们热烈欢迎每一位对AI充满热情的你，加入我们的贡献者行列！为了让协作流程更清晰，我们为您设计了标准化的贡献路径，并准备了丰厚的算力奖励。
+我们热烈欢迎每一位对AI充满热情的你，加入我们的贡献者行列！我们为您设计了一套清晰的贡献路径，并准备了丰厚的算力奖励，期待您的参与能点亮社区。
 
-#### **贡献步骤概览**
-
-<table align="center" width="100%" style="border: none;">
+<table width="100%" align="center" style="border: none;">
   <tr style="border: none;">
-    <td width="25%" align="center" style="padding: 10px;">
-      <img src="https://api.iconify.design/ph/target-bold.svg?color=gray" width="40">
-      <h4 style="margin-top: 10px; margin-bottom: 5px;">第一步：申领任务</h4>
-      <small>通过提交Issue，申领或推荐一个您感兴趣的项目。</small>
+    <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
+      <img src="https://api.iconify.design/ph/number-circle-one-bold.svg?color=8957e5" width="48">
     </td>
-    <td width="25%" align="center" style="padding: 10px;">
-      <img src="https://api.iconify.design/ph/code-bold.svg?color=gray" width="40">
-      <h4 style="margin-top: 10px; margin-bottom: 5px;">第二步：在线复现</h4>
-      <small>申请通过后，在Lab4AI平台获取算力并开始复现。</small>
+    <td width="90%" style="padding: 10px;">
+      <h3 style="margin-top: 0px; margin-bottom: 5px;">第一步：申领任务</h3>
+      <p style="color: #57606a;">
+        <strong>领取条件：</strong>在申领任务前，我们诚挚地邀请您为本项目点亮一颗 <strong>Star ⭐</strong>，这是对我们最大的支持！
+        <br>
+        您可以从我们的<a href="https://lab4ai-hub.github.io/PaperHub/"><strong>官方清单</strong></a>中选择任务；如果您有新想法，请先通过<strong>微信联系我们</strong>推荐，待项目入库后，再统一通过 <a href="【请替换为Issue区链接】"><strong>提交Issue</strong></a> 的方式进行正式申请。
+      </p>
     </td>
-    <td width="25%" align="center" style="padding: 10px;">
-      <img src="https://api.iconify.design/ph/upload-simple-bold.svg?color=gray" width="40">
-      <h4 style="margin-top: 10px; margin-bottom: 5px;">第三步：提交审核</h4>
-      <small>复现完成后，按照规范准备并提交您的最终成果。</small>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
+      <img src="https://api.iconify.design/ph/number-circle-two-bold.svg?color=8957e5" width="48">
     </td>
-    <td width="25%" align="center" style="padding: 10px;">
-      <img src="https://api.iconify.design/ph/rocket-launch-bold.svg?color=gray" width="40">
-      <h4 style="margin-top: 10px; margin-bottom: 5px;">第四步：成功发布</h4>
-      <small>审核通过后，您的项目将被官方收录，并获得奖励！</small>
+    <td width="90%" style="padding: 10px;">
+      <h3 style="margin-top: 0px; margin-bottom: 5px;">第二步：在线复现</h3>
+      <p style="color: #57606a;">
+        申请通过后，您将在Lab4AI平台获得项目所需的启动算力和标准模板，即可开始您的复现工作。请务必参考我们的核心文档，以确保您的成果符合规范。
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
+      <img src="https://api.iconify.design/ph/number-circle-three-bold.svg?color=8957e5" width="48">
+    </td>
+    <td width="90%" style="padding: 10px;">
+      <h3 style="margin-top: 0px; margin-bottom: 5px;">第三步：提交审核</h3>
+      <p style="color: #57606a;">
+        复现完成后，请根据<a href="./docs/DELIVERABLES.md"><strong>《成果提交说明》</strong></a>的要求，准备好所有材料，并在您的Lab4AI平台项目内，找到并点击“提交审核”按钮，即可将您的最终成果提交给我们。
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
+      <img src="https://api.iconify.design/ph/number-circle-four-bold.svg?color=8957e5" width="48">
+    </td>
+    <td width="90%" style="padding: 10px;">
+      <h3 style="margin-top: 0px; margin-bottom: 5px;">第四步：成功发布</h3>
+      <p style="color: #57606a;">
+        审核通过后，您的项目将被Lab4AI官方收录和展示，您也将获得剩余的**算力奖励**和**贡献者荣誉**！
+      </p>
     </td>
   </tr>
 </table>
 
-#### **项目复现细则 (核心文档)**
+### **核心文档库 (Core Documents)**
 
-在开始之前，请务必仔细阅读以下四个核心指南文档，它们包含了您需要了解的所有信息。
+在开始您的贡献之旅前，请务必仔细阅读以下核心指南。它们是我们高效、透明协作的基石。
 
-* **[📄 复现者指南 (Reproducer's Guide)](./docs/WORKFLOW.md)**
-    > **这是您的“行动手册(SOP)”**。它详细介绍了从申领到提交的每一个具体步骤，以及您需要使用的文件模板。
+<table width="100%" style="border: none; margin-top:15px;">
+  <tr style="border: none;">
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <h4 style="margin-top: 0px; margin-bottom: 5px;">
+        <a href="./docs/WORKFLOW.md">📄 复现者指南 (Reproducer's Guide)</a>
+      </h4>
+      <p style="color: #57606a; font-size: 0.9em;">
+        <em><strong>这是您的“行动手册(SOP)”。</strong>它详细介绍了从认领任务到在平台提交成果的每一个具体步骤。</em>
+      </p>
+    </td>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <h4 style="margin-top: 0px; margin-bottom: 5px;">
+        <a href="./docs/DELIVERABLES.md">📝 成果提交说明 (Deliverables Guide)</a>
+      </h4>
+      <p style="color: #57606a; font-size: 0.9em;">
+        <em><strong>这是您的“交付物清单”。</strong>它清晰地列出了您在<strong>平台内点击“提交审核”前</strong>，需要准备和整理的所有文件。</em>
+      </p>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <h4 style="margin-top: 0px; margin-bottom: 5px;">
+        <a href="./docs/CRITERIA.md">✅ 项目筛选标准 (Criteria)</a>
+      </h4>
+      <p style="color: #57606a; font-size: 0.9em;">
+        <em><strong>这是我们的“选题准则”。</strong>它定义了一个项目是否值得被复现的前置条件，例如社区热度、创新性等。</em>
+      </p>
+    </td>
+    <td width="50%" style="padding: 10px; vertical-align: top;">
+      <h4 style="margin-top: 0px; margin-bottom: 5px;">
+        <a href="./docs/REWARDS.md">💎 创作者激励计划 (Rewards)</a>
+      </h4>
+      <p style="color: #57606a; font-size: 0.9em;">
+        <em><strong>这是您的“权益手册”。</strong>它详细说明了不同类型的贡献所能获得的丰厚算力奖励和其他福利。</em>
+      </p>
+    </td>
+  </tr>
+</table>
 
-* **[📝 成果提交说明 (Deliverables Guide)](./docs/DELIVERABLES.md)**
-    > **这是您的“交付物清单”**。它清晰地列出了您在复现完成后，需要整理和提交的所有文件和内容。
+---
 
-* **[✅ 项目审核标准 (Review Criteria)](./docs/CRITERIA.md)**
-    > **这是我们的“质量红线”**。它详细说明了我们衡量一个复现项目是否成功的标准，例如社区热度、创新性等。
+### ⏳ 待复现项目库 (Project Backlog & Bounty)
 
-* **[💎 创作者激励计划 (Rewards Program)](./docs/REWARDS.md)**
-    > **这是您的“权益手册”**。它详细说明了不同类型的贡献所能获得的算力奖励和其他福利。
+我们整理了大量前沿、有趣且极具实践价值的待复现项目，并建成了一个可搜索、可筛选的在线清单。我们诚挚地邀请您从中选择课题，参与到社区共建中来。
+
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="【请替换为未来项目清单网页的链接】">
+  </a>
+</p>
 
 ---
 
