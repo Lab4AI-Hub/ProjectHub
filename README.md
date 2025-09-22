@@ -107,6 +107,11 @@
     </td>
   </tr>
 </table>
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/Lab4AI-Hub/PaperHub/issues/new/choose">
+    <img src="https://img.shields.io/badge/✅我已阅读指南，开始申请-238636?style=for-the-badge&logo=github" alt="开始申请">
+  </a>
+</p>
 
 ---
 
