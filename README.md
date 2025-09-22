@@ -82,7 +82,7 @@
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
       <h4 style="margin-top: 0px; margin-bottom: 5px;">
-        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/CRITERIA.md">📝 成果提交说明 (Deliverables Guide)</a>
+        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/DELIVERABLES.md">📝 成果提交说明 (Deliverables Guide)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
         <em><strong>这是您的“交付物清单”。</strong>它清晰地列出了您在复现完成后，需要准备的所有文件和内容。</em>
@@ -92,7 +92,7 @@
   <tr style="border: none;">
     <td width="50%" style="padding: 10px; vertical-align: top;">
       <h4 style="margin-top: 0px; margin-bottom: 5px;">
-        <a href="./docs/CRITERIA.md">✅ 项目筛选标准 (Criteria)</a>
+        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/CRITERIA.md">✅ 项目筛选标准 (Criteria)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
         <em><strong>这是我们的“选题准则”。</strong>它定义了一个项目是否值得被复现的前置条件（如社区热度、创新性等）。</em>
