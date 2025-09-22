@@ -82,7 +82,7 @@
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
       <h4 style="margin-top: 0px; margin-bottom: 5px;">
-        <a href="./docs/DELIVERABLES.md">📝 成果提交说明 (Deliverables Guide)</a>
+        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/CRITERIA.md">📝 成果提交说明 (Deliverables Guide)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
         <em><strong>这是您的“交付物清单”。</strong>它清晰地列出了您在复现完成后，需要准备的所有文件和内容。</em>
@@ -100,7 +100,7 @@
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
       <h4 style="margin-top: 0px; margin-bottom: 5px;">
-        <a href="./docs/REWARDS.md">💎 创作者激励计划 (Rewards)</a>
+        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/REWARDS.md">💎 创作者激励计划 (Rewards)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
         <em><strong>这是您的“权益手册”。</strong>它详细说明了不同贡献所能获得的丰厚算力奖励。</em>
@@ -121,7 +121,7 @@
 我们整理了大量前沿、有趣且极具实践价值的待复现项目，并建成了一个可搜索、可筛选的在线清单。我们诚挚地邀请您从中选择课题，参与到社区共建中来。
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="【请替换为未来项目清单网页的链接】">
+  <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/project_data.csv">
   </a>
 </p>
 
