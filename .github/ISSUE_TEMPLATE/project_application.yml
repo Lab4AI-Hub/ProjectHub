@@ -1,0 +1,55 @@
+# .github/ISSUE_TEMPLATE/project_application.yml
+
+name: "🚀 提交一个新的项目复现想法"
+description: "通过此模板，推荐一个您希望复现或贡献的酷炫AI项目"
+title: "[项目推荐] <请在此填写项目名称>"
+labels: ["new-project-idea", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 感谢您对 Lab4AI 社区的兴趣！
+        请尽可能详细地填写以下信息，这将帮助我们快速理解您推荐的项目的价值。
+
+  - type: input
+    id: project-name
+    attributes:
+      label: 项目名称
+      description: "您希望复现或贡献的项目的准确名称。"
+      placeholder: "例如：Real-Time Voice Cloning"
+    validations:
+      required: true
+
+  - type: input
+    id: project-link
+    attributes:
+      label: 项目原始链接 (GitHub/Hugging Face等)
+      description: "请提供该项目的开源仓库地址或官方页面链接。"
+      placeholder: "https://github.com/CorentinJ/Real-Time-Voice-Cloning"
+    validations:
+      required: true
+      
+  - type: textarea
+    id: reason
+    attributes:
+      label: 推荐理由
+      description: "请简要说明您为什么认为这个项目值得在Lab4AI平台上被复现？（例如：它的创新性、实用价值、社区热度等）"
+      placeholder: "我认为这个项目..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: 项目类型
+      description: "请为该项目选择一个最合适的分类。"
+      multiple: false
+      options:
+        - "AIGC (内容生成)"
+        - "多模态 (Multi-modal)"
+        - "CV (计算机视觉)"
+        - "NLP (自然语言处理)"
+        - "AI Agent"
+        - "其他"
+    validations:
+      required: true
