@@ -74,7 +74,7 @@
   <tr style="border: none;">
     <td width="50%" style="padding: 10px; vertical-align: top;">
       <h4 style="margin-top: 0px; margin-bottom: 5px;">
-        <a href="./docs/WORKFLOW.md">📄 复现者指南 (Reproducer's Guide)</a>
+        <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/WORKFLOW.md">📄 复现者指南 (Reproducer's Guide)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
         <em><strong>这是您的“行动手册(SOP)”。</strong>它详细介绍了从申领到提交的每一个具体步骤。</em>
