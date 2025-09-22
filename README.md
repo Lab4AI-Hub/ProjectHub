@@ -14,50 +14,52 @@
 
 我们热烈欢迎每一位对AI充满热情的你，加入我们的贡献者行列！我们为您设计了一套清晰的贡献路径，并准备了丰厚的算力奖励，期待您的参与能点亮社区。
 
+### **贡献步骤概览**
+
 <table width="100%" align="center" style="border: none;">
   <tr style="border: none;">
     <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
-      <img src="https://api.iconify.design/ph/number-circle-one-bold.svg?color=8957e5" width="48">
+      <img src="https://api.iconify.design/material-symbols/filter-1-rounded.svg?color=%238957e5" width="40">
     </td>
-    <td width="90%" style="padding: 10px;">
+    <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第一步：申领任务</h3>
       <p style="color: #57606a;">
-        <strong>领取条件：</strong>在申领任务前，我们诚挚地邀请您为本项目点亮一颗 <strong>Star ⭐</strong>，这是对我们最大的支持！
+        <strong>前置要求：</strong>我们诚挚地邀请您先为本项目点亮一颗 <strong>Star ⭐</strong>！
         <br>
-        您可以从我们的<a href="https://lab4ai-hub.github.io/PaperHub/"><strong>官方清单</strong></a>中选择任务；如果您有新想法，请先通过<strong>微信联系我们</strong>推荐，待项目入库后，再统一通过 <a href="【请替换为Issue区链接】"><strong>提交Issue</strong></a> 的方式进行正式申请。
+        然后，您可以从官方清单选择或推荐新项目，并通过提交Issue的方式进行正式申请。
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
-      <img src="https://api.iconify.design/ph/number-circle-two-bold.svg?color=8957e5" width="48">
+      <img src="https://api.iconify.design/material-symbols/filter-2-rounded.svg?color=%238957e5" width="40">
     </td>
-    <td width="90%" style="padding: 10px;">
+    <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第二步：在线复现</h3>
       <p style="color: #57606a;">
-        申请通过后，您将在Lab4AI平台获得项目所需的启动算力和标准模板，即可开始您的复现工作。请务必参考我们的核心文档，以确保您的成果符合规范。
+        申请通过后，您将在Lab4AI平台获得项目所需的启动算力和标准模板，即可开始您的复现工作。
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
-      <img src="https://api.iconify.design/ph/number-circle-three-bold.svg?color=8957e5" width="48">
+      <img src="https://api.iconify.design/material-symbols/filter-3-rounded.svg?color=%238957e5" width="40">
     </td>
-    <td width="90%" style="padding: 10px;">
+    <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第三步：提交审核</h3>
       <p style="color: #57606a;">
-        复现完成后，请根据<a href="./docs/DELIVERABLES.md"><strong>《成果提交说明》</strong></a>的要求，准备好所有材料，并在您的Lab4AI平台项目内，找到并点击“提交审核”按钮，即可将您的最终成果提交给我们。
+        复现完成后，请根据规范准备好所有成果，并在Lab4AI平台内提交以供审核。
       </p>
     </td>
   </tr>
   <tr style="border: none;">
     <td align="center" width="10%" style="vertical-align: top; padding-top: 20px;">
-      <img src="https://api.iconify.design/ph/number-circle-four-bold.svg?color=8957e5" width="48">
+      <img src="https://api.iconify.design/material-symbols/filter-4-rounded.svg?color=%238957e5" width="40">
     </td>
-    <td width="90%" style="padding: 10px;">
+    <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第四步：成功发布</h3>
       <p style="color: #57606a;">
-        审核通过后，您的项目将被Lab4AI官方收录和展示，您也将获得剩余的**算力奖励**和**贡献者荣誉**！
+        审核通过后，您的项目将被官方收录和展示，同时您将获得丰厚的算力奖励和贡献者荣誉！
       </p>
     </td>
   </tr>
@@ -65,7 +67,7 @@
 
 ### **核心文档库 (Core Documents)**
 
-在开始您的贡献之旅前，请务必仔细阅读以下核心指南。它们是我们高效、透明协作的基石。
+在开始您的贡献之旅前，请务必仔细阅读以下核心指南。**所有详细信息和跳转链接都在这里**。
 
 <table width="100%" style="border: none; margin-top:15px;">
   <tr style="border: none;">
@@ -74,7 +76,7 @@
         <a href="./docs/WORKFLOW.md">📄 复现者指南 (Reproducer's Guide)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
-        <em><strong>这是您的“行动手册(SOP)”。</strong>它详细介绍了从认领任务到在平台提交成果的每一个具体步骤。</em>
+        <em><strong>这是您的“行动手册(SOP)”。</strong>它详细介绍了从申领到提交的每一个具体步骤。</em>
       </p>
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
@@ -82,7 +84,7 @@
         <a href="./docs/DELIVERABLES.md">📝 成果提交说明 (Deliverables Guide)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
-        <em><strong>这是您的“交付物清单”。</strong>它清晰地列出了您在<strong>平台内点击“提交审核”前</strong>，需要准备和整理的所有文件。</em>
+        <em><strong>这是您的“交付物清单”。</strong>它清晰地列出了您在复现完成后，需要准备的所有文件和内容。</em>
       </p>
     </td>
   </tr>
@@ -92,7 +94,7 @@
         <a href="./docs/CRITERIA.md">✅ 项目筛选标准 (Criteria)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
-        <em><strong>这是我们的“选题准则”。</strong>它定义了一个项目是否值得被复现的前置条件，例如社区热度、创新性等。</em>
+        <em><strong>这是我们的“选题准则”。</strong>它定义了一个项目是否值得被复现的前置条件（如社区热度、创新性等）。</em>
       </p>
     </td>
     <td width="50%" style="padding: 10px; vertical-align: top;">
@@ -100,7 +102,7 @@
         <a href="./docs/REWARDS.md">💎 创作者激励计划 (Rewards)</a>
       </h4>
       <p style="color: #57606a; font-size: 0.9em;">
-        <em><strong>这是您的“权益手册”。</strong>它详细说明了不同类型的贡献所能获得的丰厚算力奖励和其他福利。</em>
+        <em><strong>这是您的“权益手册”。</strong>它详细说明了不同贡献所能获得的丰厚算力奖励。</em>
       </p>
     </td>
   </tr>
