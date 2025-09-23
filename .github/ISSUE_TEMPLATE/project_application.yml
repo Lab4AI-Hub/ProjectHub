@@ -1,13 +1,7 @@
 # .github/ISSUE_TEMPLATE/project_application.yml
 
-name: "🚀 提交一个新的项目复现想法"
-description: "通过此模板，推荐一个您希望复现或贡献的酷炫AI项目"
-title: "[项目推荐] <请在此填写项目名称>"
-labels: ["new-project-idea", "needs-review"]
-body:
-  - type: markdown
-    attributes:
-      value: |
+name: "🚀 提交一个新的项目复现申请"
+description: "通过此模板，提交一个您希望复现或贡献的酷炫AI项目"
         ### 感谢您对 Lab4AI 社区的兴趣！
         请尽可能详细地填写以下信息，这将帮助我们快速理解您推荐的项目的价值。
 
