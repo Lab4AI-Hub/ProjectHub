@@ -148,7 +148,42 @@
     </tr>
     </tbody>
 </table>
-
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">项目名称</th>
+      <th width="20%">标签</th>
+      <th width="40%">项目简介</th>
+      <th width="20%" align="center">在Lab4AI平台体验</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>RoboMIND</strong></td>
+     <td><code>机器人学</code> <code>具身智能</code></td>
+      <td>RoboMIND 是一款面向机器人操作领域的全新评测基准（Benchmark），其核心目标是评估单一AI模型在多种不同物理形态机器人上的通用智能水平。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=492a471cd6054a179660c760f0026704&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+</table>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="20%">项目名称</th>
+      <th width="20%">标签</th>
+      <th width="40%">项目简介</th>
+      <th width="20%" align="center">在Lab4AI平台体验</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>LLaMA-Factory 微调能力在心理健康大模型中的应用</strong></td>
+     <td><code>微调</code> <code>LlaMA Factory</code></td>
+      <td>CBT是一种针对多种心理障碍的成熟心理干预方法。研究中，LLaMA-Factory 的微调能力为模型开发提供关键支撑，其微调能力在实验中得到充分验证，相关结果已纳入发表的论文。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=25cce32ec131497b9e06a93336a0817f&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+</table>
 ---
 
 ### 💬 联系我们
