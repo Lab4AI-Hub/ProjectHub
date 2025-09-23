@@ -147,16 +147,6 @@
       <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=8e96bf22c1a34293942384299c6b0937&type=project"><strong>➡️ 一键部署</strong></a></td>
     </tr>
     </tbody>
-</table>
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%">项目名称</th>
-      <th width="20%">标签</th>
-      <th width="40%">项目简介</th>
-      <th width="20%" align="center">在Lab4AI平台体验</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><strong>RoboMIND</strong></td>
@@ -165,16 +155,6 @@
       <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=492a471cd6054a179660c760f0026704&type=project"><strong>➡️ 一键部署</strong></a></td>
     </tr>
     </tbody>
-</table>
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="20%">项目名称</th>
-      <th width="20%">标签</th>
-      <th width="40%">项目简介</th>
-      <th width="20%" align="center">在Lab4AI平台体验</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><strong>LLaMA-Factory 微调能力在心理健康大模型中的应用</strong></td>
@@ -183,7 +163,16 @@
       <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=25cce32ec131497b9e06a93336a0817f&type=project"><strong>➡️ 一键部署</strong></a></td>
     </tr>
     </tbody>
+  <tbody>
+    <tr>
+      <td><strong>LLaVA-NeXT: Open Large Multimodal Models</strong></td>
+     <td><code>微调</code> <code>LlaMA Factory</code></td>
+      <td>LLaVa-NeXT在 LLaVa 的基础上进行了改进，结合预训练的大语言模型和视觉编码器，LLaVa-NeXT成为多模态应用的理想选择。 1.增加了输入图像分辨率,这使其能够掌握更多视觉细节。 2.通过改进的可视指令微调数据集上进行预训练，提高了视觉推理和 OCR 能力。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=6bccff6ae7c040e7a1fff0e9294ecd40&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
 </table>
+
 ---
 
 ### 💬 联系我们
