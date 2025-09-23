@@ -1,15 +1,21 @@
 # .github/ISSUE_TEMPLATE/project_application.yml
 
-name: "🚀 提交一个新的项目复现申请"
-description: "通过此模板，提交一个您希望复现或贡献的酷炫AI项目"
-        ### 感谢您对 Lab4AI 社区的兴趣！
-        请尽可能详细地填写以下信息，这将帮助我们快速理解您推荐的项目的价值。
+name: "🚀 项目复现任务申请"
+description: "通过此模板，正式申请复现一个AI项目"
+title: "[任务申请] <请在此填写您要复现的项目名称>"
+labels: ["task-application", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ### 感谢您申请参与 Lab4AI 的项目复现！
+        在提交前，请确保您已仔细阅读我们的 **[贡献指南](https://github.com/Lab4AI-Hub/ProjectHub/blob/main/CONTRIBUTING.md)**，并已准备好开始复现工作。
 
   - type: input
     id: project-name
     attributes:
       label: 项目名称
-      description: "您希望复现或贡献的项目的准确名称。"
+      description: "您希望复现的项目的准确名称。"
       placeholder: "例如：Real-Time Voice Cloning"
     validations:
       required: true
@@ -26,9 +32,9 @@ description: "通过此模板，提交一个您希望复现或贡献的酷炫AI�
   - type: textarea
     id: reason
     attributes:
-      label: 推荐理由
-      description: "请简要说明您为什么认为这个项目值得在Lab4AI平台上被复现？（例如：它的创新性、实用价值、社区热度等）"
-      placeholder: "我认为这个项目..."
+      label: 申请理由与个人优势
+      description: "请简要说明您为什么选择这个项目进行复现，以及您具备的相关经验或优势。"
+      placeholder: "我对该领域的...技术比较熟悉，希望能通过复现加深理解..."
     validations:
       required: true
 
