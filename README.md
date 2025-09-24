@@ -38,7 +38,7 @@
     <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第二步：在线复现</h3>
       <p style="color: #57606a;">
-        申请通过后，您将在Lab4AI平台获得项目所需的启动算力和标准模板，即可开始您的复现工作。
+        申请通过后，您将在Lab4AI平台获得项目所需的启动算力并根据<strong>《复现者指南》中的标准文件结构和操作流程</strong>，即可开始您的复现工作。
       </p>
     </td>
   </tr>
