@@ -40,7 +40,7 @@
 │   └── [您的项目名]/<br>
 │       ├── model/      # 存放所有模型权重文件或下载脚本<br>
 │       ├── dataset/    # 存放数据集文件或下载脚本<br>
-│       └── code/       # 存放所有核心源代码和Notebook<br>
+│       └── code/       # 存放所有核心源代码和操作说明文件（Notebook或者readme）（<br>
 │<br>
 └── envs/<br>
 └── [您的项目名]/<br>
@@ -57,10 +57,10 @@
 
 * **1. 创建独立的虚拟环境**
     * 我们要求每个项目都创建一个独立的Conda虚拟环境，以保证依赖的纯净。
-    * **示例命令** (请将 `ttt` 替换为您的环境名):
+    * **示例命令** (请将 `aaa` 替换为您的环境名):
         ```bash
-        # 创建一个名为 ttt 的 python3.12 环境
-        conda create -n ttt python=3.12 -y
+        # 创建一个名为 aaa 的 python3.12 环境
+        conda create -n aaa python=3.12 -y
         
         # 查看已有的conda环境
         conda env list
@@ -78,8 +78,18 @@
     * 然后，执行内核注册命令。请将 `aaa` 替换为您自己的环境名：
         ```bash
         # 示例：为名为 aaa 的环境注册一个名为 "Python(aaa)" 的内核
-        python -m ipykernel install --user --name aaa --display-name "Python(aaa)"
+        kernel_install --name aaa --display-name "Python(aaa)"
         ```
     * 完成以上操作后，**刷新**一下您项目中的Jupyter Notebook页面。在右上角的内核选择区域，您现在应该就能看到并选择您刚刚创建的 `"Python(aaa)"` 内核了。
+ * **3. 在VSCode中使用您的环境**
+    * VSCode可以自动检测到您新创建的Conda环境，切换过程非常快捷。
+    * **第一步: 选择Python解释器**
+        * 使用快捷键 `Ctrl+Shift+P` (Windows/Linux) 或 `Cmd+Shift+P` (macOS) 打开命令面板。
+        * 输入并选择 `Python: Select Interpreter`。
+
+    * **第二步: 选择您的Conda环境**
+        * 在弹出的列表中，找到并点击您刚刚创建的环境（例如，名为 `aaa` 的Conda环境）。
+        * 选择后，右下角状态栏会显示您选择的环境名，表示切换成功。
+      
 
 ---
