@@ -35,7 +35,8 @@
 32,nanoVLM,"多模态, 视觉语言模型",https://github.com/huggingface/nanoVLM,未领取
 33,ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability,"大语言模型, 搜索",https://github.com/8421BCD/ReasonRank,未领取
 34,VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning,"文本转语音, 声音克隆",https://github.com/OpenBMB/VoxCPM/,未领取
-35,基于LightX2V进行广告创意设计,"视频生成, 广告",https://github.com/ModelTC/LightX2V,未领取
-36,基于LightX2V的数字人的新闻播报,"数字人, 视频生成",https://github.com/ModelTC/LightX2V,未领取
-37,基于QWen Next 80B模型和LightLLM的复杂语义场景（如绕口令）的回答结果评测,"大语言模型, 评测",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,未领取
-38,基于LightLLM+Dify构建法律智能体,"大语言模型, 法律智能体",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,未领取
+35,基于LightX2V进行广告创意设计,"视频生成, 广告",https://github.com/ModelTC/LightX2V,已认领✅
+36,基于LightX2V的数字人的新闻播报,"数字人, 视频生成",https://github.com/ModelTC/LightX2V,已认领✅
+37,基于QWen Next 80B模型和LightLLM的复杂语义场景（如绕口令）的回答结果评测,"大语言模型, 评测",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
+38,基于LightLLM+Dify构建法律智能体,"大语言模型, 法律智能体",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
+
