@@ -121,7 +121,7 @@
 我们正在整理一个包含大量前沿、有趣且极具实践价值的待复现项目清单。我们诚挚地邀请您未来从中选择课题，或推荐新的项目，参与到社区共建中来。
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Lab4AI-Hub/ProjectHub/blob/main/project_data.csv">
+  <a href="https://lab4ai-hub.github.io/ProjectHub/">
     <img src="https://img.shields.io/badge/查看全部待复现项目-8957e5?style=for-the-badge&logo=github-sponsors" alt="查看全部待复现项目">
   </a>
 </p>
