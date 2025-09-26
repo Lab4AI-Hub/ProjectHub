@@ -6,7 +6,7 @@
   </p>
   
  <p align="center"> 
-  <strong>所有项目均支持 👉 <a href="https://www.lab4ai.cn/home">在Lab4AI平台一键部署和二次开发</a></strong>
+  <strong>所有项目均支持 👉 <a href="https://www.lab4ai.cn/register?utm_source=GitHub">在Lab4AI平台一键部署和二次开发</a></strong>
 </p>
 
 ---
