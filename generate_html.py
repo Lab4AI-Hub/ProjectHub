@@ -100,7 +100,7 @@ def main():
         <script src="https://code.jquery.com/jquery-3.7.0.js"></script>
         <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
         <script>
-            $(document).ready(function() {{ $('#projectTable').DataTable({{ "pageLength": 20, "order": [], "language": {{ "search": "🔍 搜索:", "lengthMenu": "每页显示 _MENU_ 条", "info": "显示第 _START_ 到 _END_ 条，共 _TOTAL_ 条", "paginate": {{ "next": "下一页", "previous": "上一页" }} }} }}); }});
+            $(document).ready(function() {{ $('#projectTable').DataTable({{ "pageLength": 15, "order": [], "language": {{ "search": "🔍 搜索:", "lengthMenu": "每页显示 _MENU_ 条", "info": "显示第 _START_ 到 _END_ 条，共 _TOTAL_ 条", "paginate": {{ "next": "下一页", "previous": "上一页" }} }} }}); }});
         </script>
     </body></html>
     """
