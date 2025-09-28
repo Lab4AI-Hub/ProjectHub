@@ -38,7 +38,7 @@
     <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第二步：在线复现</h3>
       <p style="color: #57606a;">
-        申请通过后，您将在Lab4AI平台获得项目所需的启动算力并根据<strong>《复现者指南》中的复现标准文件结构和操作流程</strong>，即可开始您的复现工作。
+        申请通过后，您将在Lab4AI平台获得项目所需的启动算力，然后进入平台的<strong>创作中心-项目创作-项目创建</strong>新建您的复现项目，并根据<strong>《复现者指南》</strong>中的复现标准文件结构和操作流程，即可开始您的复现工作。
       </p>
     </td>
   </tr>
@@ -49,7 +49,7 @@
     <td width="90%" style="padding: 10px 10px 20px 10px;">
       <h3 style="margin-top: 0px; margin-bottom: 5px;">第三步：提交审核</h3>
       <p style="color: #57606a;">
-        复现完成后，请根据规范准备好所有成果，并在Lab4AI平台内提交以供审核。
+        复现完成后，请根据规范准备好所有成果，并在Lab4AI平台的项目创作的页面点击<strong>发布</strong>以提交审核。
       </p>
     </td>
   </tr>
