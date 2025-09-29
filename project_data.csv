@@ -1,7 +1,7 @@
 ﻿ID,项目名称,技术标签,项目原始链接,认领状态
 1,LazyLLM: An easy and lazy way for building multi-agent LLMs applications and supports model fine-tuning via LLaMA Factory.,"LLM框架, 多智能体",https://github.com/LazyAGI/LazyLLM,已认领✅
 2,EmoLLM: A project about large language models (LLMs) and mental health.,"大语言模型, 医疗健康",https://github.com/SmartFlowAI/EmoLLM/,已认领✅
-3,"CareGPT: A series of large language models for Chinese medical domain, based on LLaMA2-7B and Baichuan-13B.","大语言模型, 医疗",https://github.com/WangRongsheng/CareGPT,未领取
+3,"CareGPT: A series of large language models for Chinese medical domain, based on LLaMA2-7B and Baichuan-13B.","大语言模型, 医疗",https://github.com/WangRongsheng/CareGPT,已认领✅
 4,"DISC-LawLLM: A large language model specialized in Chinese legal domain, based on Baichuan-13B, is capable of retrieving and reasoning on legal knowledge.","大语言模型, 法律",https://github.com/FudanDISC/DISC-LawLLM,未领取
 5,360-LLaMA-Factory: A modified library that supports long sequence SFT & DPO using ring attention.,"大语言模型, 微调",https://github.com/Qihoo360/360-LLaMA-Factory,已认领✅
 6,"MachineMindset: A series of MBTI Personality large language models, capable of giving any LLM 16 different personality types based on different datasets and training methods.","大语言模型, 个性化",https://github.com/PKU-YuanGroup/Machine-Mindset/,未领取
@@ -15,7 +15,7 @@
 12,Kronos: A Foundation Model for the Language of Financial Markets,"大语言模型, 金融",https://github.com/shiyu-coder/Kronos,未领取
 13,Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data,"计算机视觉, 医疗",https://github.com/prov-gigapath/prov-gigapath,未领取
 14,SkyReels V2: Infinite-Length Film Generative Model,"视频生成, 生成式AI",https://github.com/SkyworkAI/SkyReels-V2,未领取
-15,FUNASR: A Fundamental End-to-End Speech Recognition Toolkit,"语音识别, ASR",https://github.com/modelscope/FunASR,未领取
+15,FUNASR: A Fundamental End-to-End Speech Recognition Toolkit,"语音识别, ASR",https://github.com/modelscope/FunASR,已认领✅
 16,3D U-Net Convolution Neural Network,"计算机视觉, 3D分割",https://github.com/ellisdg/3DUnetCNN,未领取
 17,"YOLO: Official Implementation of YOLOv9, YOLOv7, YOLO-RD","目标检测, 计算机视觉",https://github.com/MultimediaTechLab/YOLO,已认领✅
 18,X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention,"动画, 计算机视觉",https://github.com/bytedance/X-Portrait,未领取
@@ -39,6 +39,7 @@
 36,基于LightX2V的数字人的新闻播报,"数字人, 视频生成",https://github.com/ModelTC/LightX2V,已认领✅
 37,基于QWen Next 80B模型和LightLLM的复杂语义场景（如绕口令）的回答结果评测,"大语言模型, 评测",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
 38,基于LightLLM+Dify构建法律智能体,"大语言模型, 法律智能体",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
+
 
 
 
