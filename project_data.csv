@@ -1,6 +1,6 @@
 ﻿ID,项目名称,技术标签,项目原始链接,认领状态
-1,LazyLLM: An easy and lazy way for building multi-agent LLMs applications and supports model fine-tuning via LLaMA Factory.,"LLM框架, 多智能体",https://github.com/LazyAGI/LazyLLM,未领取
-2,EmoLLM: A project about large language models (LLMs) and mental health.,"大语言模型, 医疗健康",https://github.com/SmartFlowAI/EmoLLM/,未领取
+1,LazyLLM: An easy and lazy way for building multi-agent LLMs applications and supports model fine-tuning via LLaMA Factory.,"LLM框架, 多智能体",https://github.com/LazyAGI/LazyLLM,已认领✅
+2,EmoLLM: A project about large language models (LLMs) and mental health.,"大语言模型, 医疗健康",https://github.com/SmartFlowAI/EmoLLM/,已认领✅
 3,"CareGPT: A series of large language models for Chinese medical domain, based on LLaMA2-7B and Baichuan-13B.","大语言模型, 医疗",https://github.com/WangRongsheng/CareGPT,未领取
 4,"DISC-LawLLM: A large language model specialized in Chinese legal domain, based on Baichuan-13B, is capable of retrieving and reasoning on legal knowledge.","大语言模型, 法律",https://github.com/FudanDISC/DISC-LawLLM,未领取
 5,360-LLaMA-Factory: A modified library that supports long sequence SFT & DPO using ring attention.,"大语言模型, 微调",https://github.com/Qihoo360/360-LLaMA-Factory,未领取
@@ -39,4 +39,5 @@
 36,基于LightX2V的数字人的新闻播报,"数字人, 视频生成",https://github.com/ModelTC/LightX2V,已认领✅
 37,基于QWen Next 80B模型和LightLLM的复杂语义场景（如绕口令）的回答结果评测,"大语言模型, 评测",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
 38,基于LightLLM+Dify构建法律智能体,"大语言模型, 法律智能体",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
+
 
