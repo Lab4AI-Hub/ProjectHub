@@ -2,18 +2,18 @@
 1,LazyLLM: An easy and lazy way for building multi-agent LLMs applications and supports model fine-tuning via LLaMA Factory.,"LLM框架, 多智能体",https://github.com/LazyAGI/LazyLLM,已认领✅
 2,EmoLLM: A project about large language models (LLMs) and mental health.,"大语言模型, 医疗健康",https://github.com/SmartFlowAI/EmoLLM/,已认领✅
 3,"CareGPT: A series of large language models for Chinese medical domain, based on LLaMA2-7B and Baichuan-13B.","大语言模型, 医疗",https://github.com/WangRongsheng/CareGPT,已认领✅
-4,"DISC-LawLLM: A large language model specialized in Chinese legal domain, based on Baichuan-13B, is capable of retrieving and reasoning on legal knowledge.","大语言模型, 法律",https://github.com/FudanDISC/DISC-LawLLM,未领取
+4,"DISC-LawLLM: A large language model specialized in Chinese legal domain, based on Baichuan-13B, is capable of retrieving and reasoning on legal knowledge.","大语言模型, 法律",https://github.com/FudanDISC/DISC-LawLLM,已认领✅
 5,360-LLaMA-Factory: A modified library that supports long sequence SFT & DPO using ring attention.,"大语言模型, 微调",https://github.com/Qihoo360/360-LLaMA-Factory,已认领✅
-6,"MachineMindset: A series of MBTI Personality large language models, capable of giving any LLM 16 different personality types based on different datasets and training methods.","大语言模型, 个性化",https://github.com/PKU-YuanGroup/Machine-Mindset/,未领取
-7,"-Sunsimiao: A large language model specialized in Chinese medical domain, based on Baichuan-7B and ChatGLM-6B.","大语言模型, 医疗",https://github.com/X-D-Lab/Sunsimiao,未领取
+6,"MachineMindset: A series of MBTI Personality large language models, capable of giving any LLM 16 different personality types based on different datasets and training methods.","大语言模型, 个性化",https://github.com/PKU-YuanGroup/Machine-Mindset/,已认领✅
+7,"-Sunsimiao: A large language model specialized in Chinese medical domain, based on Baichuan-7B and ChatGLM-6B.","大语言模型, 医疗",https://github.com/X-D-Lab/Sunsimiao,已认领✅
 8,"StarWhisper: A large language model for Astronomy, based on ChatGLM2-6B and Qwen-14B.","大语言模型, 科学",https://github.com/Yu-Yang-Li/StarWhisper,未领取
 9,NVIDIA RTX AI Toolkit: SDKs for fine-tuning LLMs on Windows PC for NVIDIA RTX.,"大语言模型, 开发工具包",https://github.com/NVIDIA/RTX-AI-Toolkit,未领取
 10,"Chinese-LLaVA-Med: A multimodal large language model specialized in Chinese medical domain, based on LLaVA-1.5-7B.","多模态, 医疗",https://github.com/BUAADreamer/Chinese-LLaVA-Med,未领取
 11,AutoRE: A document-level relation extraction system based on large language models.,"大语言模型, 自然语言处理","https://github.com/THUDM/AutoRE
 
 ",已认领✅
-12,Kronos: A Foundation Model for the Language of Financial Markets,"大语言模型, 金融",https://github.com/shiyu-coder/Kronos,未领取
-13,Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data,"计算机视觉, 医疗",https://github.com/prov-gigapath/prov-gigapath,未领取
+12,Kronos: A Foundation Model for the Language of Financial Markets,"大语言模型, 金融",https://github.com/shiyu-coder/Kronos,已认领✅
+13,Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data,"计算机视觉, 医疗",https://github.com/prov-gigapath/prov-gigapath,已认领✅
 14,SkyReels V2: Infinite-Length Film Generative Model,"视频生成, 生成式AI",https://github.com/SkyworkAI/SkyReels-V2,已认领✅
 15,FUNASR: A Fundamental End-to-End Speech Recognition Toolkit,"语音识别, ASR",https://github.com/modelscope/FunASR,已认领✅
 16,3D U-Net Convolution Neural Network,"计算机视觉, 3D分割",https://github.com/ellisdg/3DUnetCNN,未领取
@@ -22,11 +22,11 @@
 19,Ultralight Digital Human,"数字人, 图形学",https://github.com/anliyuan/Ultralight-Digital-Human,未领取
 20,"Sonic: Shifting Focus to Global Audio Perception in Portrait Animation, CVPR 2025.","动画, 音频驱动",https://github.com/jixiaozhong/Sonic,未领取
 21,Medical SAM 2: Segment Medical Images As Video Via Segment Anything Model 2,"图像分割, 医疗",https://github.com/ImprintLab/Medical-SAM2,未领取
-22,vision-transformers-cifar10,"视觉Transformer, 图像分类",https://github.com/kentaroy47/vision-transformers-cifar10,未领取
+22,vision-transformers-cifar10,"视觉Transformer, 图像分类",https://github.com/kentaroy47/vision-transformers-cifar10,已认领✅
 23,slime is an LLM post-training framework for RL scaling,"大语言模型, 强化学习",https://github.com/THUDM/slime,未领取
 24,INFTY Engine: An Optimization Toolkit to Support Continual AI,"AI优化, 工具包",https://github.com/THUDM/INFTY,未领取
-25,IndexTTS2,"文本转语音, 语音合成",https://github.com/index-tts/index-tts,未领取
-26,Long-RL: Scaling RL to Long Sequences,"强化学习, 大语言模型",https://github.com/NVlabs/Long-RL,未领取
+25,IndexTTS2,"文本转语音, 语音合成",https://github.com/index-tts/index-tts,已认领✅
+26,Long-RL: Scaling RL to Long Sequences,"强化学习, 大语言模型",https://github.com/NVlabs/Long-RL,已认领✅
 27,3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding,"多模态, 3D视觉",https://github.com/AIGeeksGroup/3D-R1,未领取
 28,PresentAgent: Multimodal Agent for Presentation Video Generation,"视频生成, AI智能体",https://github.com/AIGeeksGroup/PresentAgent,未领取
 29,FireRedASR: Open-Source Industrial-Grade Automatic Speech Recognition Models,"语音识别, ASR",https://github.com/FireRedTeam/FireRedASR,未领取
@@ -39,6 +39,7 @@
 36,基于LightX2V的数字人的新闻播报,"数字人, 视频生成",https://github.com/ModelTC/LightX2V,已认领✅
 37,基于QWen Next 80B模型和LightLLM的复杂语义场景（如绕口令）的回答结果评测,"大语言模型, 评测",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
 38,基于LightLLM+Dify构建法律智能体,"大语言模型, 法律智能体",https://github.com/ModelTC/LightLLM?tab=readme-ov-file,已认领✅
+
 
 
 
