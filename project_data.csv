@@ -16,7 +16,7 @@
 13,Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data,"计算机视觉, 医疗",https://github.com/prov-gigapath/prov-gigapath,未领取
 14,SkyReels V2: Infinite-Length Film Generative Model,"视频生成, 生成式AI",https://github.com/SkyworkAI/SkyReels-V2,已认领✅
 15,FUNASR: A Fundamental End-to-End Speech Recognition Toolkit,"语音识别, ASR",https://github.com/modelscope/FunASR,已认领✅
-16,3D U-Net Convolution Neural Network,"计算机视觉, 3D分割",https://github.com/ellisdg/3DUnetCNN,未领取
+16,3D U-Net Convolution Neural Network,"计算机视觉, 3D分割",https://github.com/ellisdg/3DUnetCNN,已认领✅
 17,"YOLO: Official Implementation of YOLOv9, YOLOv7, YOLO-RD","目标检测, 计算机视觉",https://github.com/MultimediaTechLab/YOLO,已认领✅
 18,X-Portrait: Expressive Portrait Animation with Hierarchical Motion Attention,"动画, 计算机视觉",https://github.com/bytedance/X-Portrait,未领取
 19,Ultralight Digital Human,"数字人, 图形学",https://github.com/anliyuan/Ultralight-Digital-Human,已认领✅
@@ -50,3 +50,4 @@
 47,从头开始逐步编码大型语言模型 （LLM） 来学习和理解大型语言模型 （LLM） 如何从内到外工作,"LLM从零实现, 教育, 深度学习",https://github.com/rasbt/LLMs-from-scratch,未领取
 48,Multimodal Chain-of-Thought Reasoning in Language Models,"多模态, 思维链, AI推理",https://github.com/amazon-science/mm-cot,未领取
 49,Less is More: Recursive Reasoning with Tiny Networks少即是多：使用微型网络进行递归推理,"模型压缩, AI推理, 高效AI",https://github.com/SamsungSAILMontreal/TinyRecursiveModels,未领取
+
