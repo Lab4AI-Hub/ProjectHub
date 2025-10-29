@@ -171,7 +171,48 @@
       <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=6bccff6ae7c040e7a1fff0e9294ecd40&type=project"><strong>➡️ 一键部署</strong></a></td>
     </tr>
     </tbody>
+  <tbody>
+    <tr>
+      <td><strong>Qwen-Video-8B：垂类视频理解专家</strong></td>
+     <td><code>视觉推理</code> <code>多模态</code></td>
+      <td>基于强大的 Qwen3-VL-8B-Instruct 模型进行针对性微调，旨在注入垂类领域的先验知识，强化其时序建模与多模态推理能力。项目目标是将一个通用的视觉模型，锻造成为一个真正的 “垂类视频理解专家”。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=60fcdda04158489cbeac46cc7475f613&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+  <tbody>
+    <tr>
+      <td><strong>搭建​基于Qwen3-8B与LightLLM高效复杂语义理解应用</strong></td>
+     <td><code>LLM</code></td>
+      <td>本实践基于Qwen3-8B模型与LightLLM推理框架，构建高效的中文语义理解应用解决方案。Qwen3-8B作为一款80亿参数的高效模型，支持128K长上下文，在推理、代码等任务中表现出色。结合LightLLM这一专为高效推理设计的开源框架，实现了在有限硬件资源上的快速部署与稳定服务，为智能客服、知识问答、内容生成等企业级场景提供了实用的技术方案。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=c98ff5d09528423d8dd06f5a063cb2a6&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+  <tbody>
+    <tr>
+      <td><strong>构建LightLLM+LlamaIndex法律智能体</strong></td>
+     <td><code>推理</code></td>
+      <td>本项目利用 LightLLM 高效推理框架解决大模型部署难题，并结合 LlamaIndex (RAG) 技术引入外部知识（如法律领域）克服“幻觉”问题。您可利用本平台提供的 GPU/CPU 资源及 Jupyter/VS Code 环境，快速构建法律智能体，轻松掌握高效 AI 系统的开发与实践。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=b417085ae8cd4dd0bef7161c3d583b15&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+  <tbody>
+    <tr>
+      <td><strong>CareGPT医疗大模型微调实战</strong></td>
+     <td><code>医疗模型</code> <code>微调</code></td>
+      <td>CareGPT 是一个面向医疗健康场景的开源大语言模型微调框架，通过“继续预训练+指令微调+强化学习”三阶段训练，将通用基座模型升级为具备专业医学知识、低幻觉、可落地的医疗助手，并提供一键式 Web 界面，让开发者与医疗从业者零门槛完成数据准备、训练、评估与部署。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=fd56775d0e11445b932e36ce32effd25&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
+  <tbody>
+    <tr>
+      <td><strong>WeClone：从聊天记录创造数字分身的一站式解决方案</strong></td>
+     <td><code>微调</code></td>
+      <td>WeClone 项目实现了从个人用户导出的聊天记录创造其数字分身，可以通过使用聊天记录微调大语言模型，让模型学会用户的语言风格和习惯，并将其接入聊天机器人，打造出用户专属的数字分身。</td>
+      <td align="center"><a href="https://www.lab4ai.cn/project/detail?id=ab83d14684fa45d197f67eddb3d8316c&type=project"><strong>➡️ 一键部署</strong></a></td>
+    </tr>
+    </tbody>
 </table>
+
 
 ---
 
